@@ -1,0 +1,16 @@
+{
+  "name": "pesquisa_binaria",
+  "version": "0.0.1",
+  "main": "pesquisa_binaria.ts",
+  "scripts": {
+    "build": "tsc pesquisa_binaria.ts",
+    "start": "node pesquisa_binaria.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "selection_sort",
+    "version": "0.0.1",
+    "main": "selection_sort.ts",
+    "scripts": {
+      "build": "tsc selection_sort.ts",
+      "start": "node selection_sort.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+      "typescript": "^5.8.2"
+    }
+  }

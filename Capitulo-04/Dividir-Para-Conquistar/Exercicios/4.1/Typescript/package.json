@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "sum.ts",
+  "scripts": {
+    "build": "tsc sum.ts",
+    "start": "node sum.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}

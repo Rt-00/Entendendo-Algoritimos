@@ -23,6 +23,8 @@ A principal vantagem das tabelas hash é que elas oferecem um tempo de acesso **
 
 O **fator de carga** de uma tabela hash é uma medida que representa a relação entre o número de elementos armazenados e o tamanho da tabela.
 
+$\text{Fator de carga} = \frac{\text{número de elementos}}{\text{tamanho da tabela}}$
+
 ### Por que é importante?
 
 - ✅ Um fator de carga **muito alto** aumenta a chance de **colisões**, degradando a performance para **O(n)**.

@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "hash_table.ts",
+  "scripts": {
+    "build": "tsc hash_table.ts --lib ES5,ES2015,DOM",
+    "start": "node hash_table.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}

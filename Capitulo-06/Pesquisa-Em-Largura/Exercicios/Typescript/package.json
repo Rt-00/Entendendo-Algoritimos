@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "breadth_first_search.ts",
+  "scripts": {
+    "build": "tsc breadth_first_search.ts --lib ES5,ES2015,DOM",
+    "start": "node breadth_first_search.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}

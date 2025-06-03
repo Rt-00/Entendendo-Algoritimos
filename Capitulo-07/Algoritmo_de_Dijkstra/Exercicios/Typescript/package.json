@@ -4,7 +4,7 @@
   "main": "dijkstra.ts",
   "scripts": {
     "build": "tsc dijkstra.ts --lib ES5,ES2015,DOM",
-    "start": "node dijkstra.ts"
+    "start": "node dijkstra.js"
   },
   "keywords": [],
   "author": "",

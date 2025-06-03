@@ -4,7 +4,7 @@
   "main": "greed_coin_change.ts",
   "scripts": {
     "build": "tsc greed_coin_change.ts --lib ES5,ES2015,DOM",
-    "start": "node greed_coin_change.ts"
+    "start": "node greed_coin_change.js"
   },
   "keywords": [],
   "author": "",

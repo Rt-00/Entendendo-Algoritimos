@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "simple_classification.ts",
+  "scripts": {
+    "build": "tsc simple_classification.ts --lib ES5,ES2015,DOM",
+    "start": "node simple_classification.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
